@@ -1,0 +1,65 @@
+,Local,Visitante,Marcador,Año
+0,Catar,Ecuador,Partido 1,2022
+1,Senegal,Países Bajos,Partido 2,2022
+2,Catar,Senegal,Partido 18,2022
+3,Países Bajos,Ecuador,Partido 19,2022
+4,Ecuador,Senegal,Partido 35,2022
+5,Países Bajos,Catar,Partido 36,2022
+6,Inglaterra,Irán,Partido 3,2022
+7,Estados Unidos,Gales,Partido 4,2022
+8,Gales,Irán,Partido 17,2022
+9,Inglaterra,Estados Unidos,Partido 20,2022
+10,Gales,Inglaterra,Partido 33,2022
+11,Irán,Estados Unidos,Partido 34,2022
+12,Argentina,Arabia Saudita,Partido 8,2022
+13,México,Polonia,Partido 7,2022
+14,Polonia,Arabia Saudita,Partido 22,2022
+15,Argentina,México,Partido 24,2022
+16,Polonia,Argentina,Partido 39,2022
+17,Arabia Saudita,México,Partido 40,2022
+18,Dinamarca,Túnez,Partido 6,2022
+19,Francia,Australia,Partido 5,2022
+20,Túnez,Australia,Partido 21,2022
+21,Francia,Dinamarca,Partido 23,2022
+22,Australia,Dinamarca,Partido 37,2022
+23,Túnez,Francia,Partido 38,2022
+24,Alemania,Japón,Partido 11,2022
+25,España,Costa Rica,Partido 10,2022
+26,Japón,Costa Rica,Partido 25,2022
+27,España,Alemania,Partido 28,2022
+28,Japón,España,Partido 43,2022
+29,Costa Rica,Alemania,Partido 44,2022
+30,Marruecos,Croacia,Partido 12,2022
+31,Bélgica,Canadá,Partido 9,2022
+32,Bélgica,Marruecos,Partido 26,2022
+33,Croacia,Canadá,Partido 27,2022
+34,Croacia,Bélgica,Partido 41,2022
+35,Canadá,Marruecos,Partido 42,2022
+36,Suiza,Camerún,Partido 13,2022
+37,Brasil,Serbia,Partido 16,2022
+38,Camerún,Serbia,Partido 29,2022
+39,Brasil,Suiza,Partido 31,2022
+40,Serbia,Suiza,Partido 47,2022
+41,Camerún,Brasil,Partido 48,2022
+42,Uruguay,Corea del Sur,Partido 14,2022
+43,Portugal,Ghana,Partido 15,2022
+44,Corea del Sur,Ghana,Partido 30,2022
+45,Portugal,Uruguay,Partido 32,2022
+46,Ghana,Uruguay,Partido 45,2022
+47,Corea del Sur,Portugal,Partido 46,2022
+48,1.° Grupo A,2.° Grupo B,Partido 49,2022
+49,1.° Grupo C,2.° Grupo D,Partido 50,2022
+50,1.° Grupo D,2.° Grupo C,Partido 52,2022
+51,1.° Grupo B,2.° Grupo A,Partido 51,2022
+52,1.° Grupo E,2.° Grupo F,Partido 53,2022
+53,1.° Grupo G,2.° Grupo H,Partido 54,2022
+54,1.° Grupo F,2.° Grupo E,Partido 55,2022
+55,1.° Grupo H,2.° Grupo G,Partido 56,2022
+56,Ganador partido 53,Ganador partido 54,Partido 58,2022
+57,Ganador partido 49,Ganador partido 50,Partido 57,2022
+58,Ganador partido 55,Ganador partido 56,Partido 60,2022
+59,Ganador partido 51,Ganador partido 52,Partido 59,2022
+60,Ganador partido 57,Ganador partido 58,Partido 61,2022
+61,Ganador partido 59,Ganador partido 60,Partido 62,2022
+62,Perdedor partido 61,Perdedor partido 62,Partido 63,2022
+63,Ganador partido 61,Ganador partido 62,Partido 64,2022

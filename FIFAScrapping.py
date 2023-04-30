@@ -16,6 +16,7 @@ mundiales = mundiales + [i for i in range(1950,2019,4)]
 
 def GetMundial(year):
     driver.get(f"https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol_de_{year}")
+    #driver.get(f"https://en.wikipedia.org/wiki/{year}_FIFA_World_Cup")
 
     partidos = driver.find_elements(by="xpath",value='//table [@class = "collapsible autocollapse vevent plainlist"]')
 

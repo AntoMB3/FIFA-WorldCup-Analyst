@@ -1,65 +1,65 @@
 Local,Visitante,Marcador,Año
-Qatar , Ecuador,Match 1,2022
-Senegal , Netherlands,Match 2,2022
-Qatar , Senegal,Match 18,2022
-Netherlands , Ecuador,Match 19,2022
-Ecuador , Senegal,Match 35,2022
-Netherlands , Qatar,Match 36,2022
-England , Iran,Match 3,2022
-United States , Wales,Match 4,2022
-Wales , Iran,Match 17,2022
-England , United States,Match 20,2022
-Wales , England,Match 33,2022
-Iran , United States,Match 34,2022
-Argentina , Saudi Arabia,Match 8,2022
-Mexico , Poland,Match 7,2022
-Poland , Saudi Arabia,Match 22,2022
-Argentina , Mexico,Match 24,2022
-Poland , Argentina,Match 39,2022
-Saudi Arabia , Mexico,Match 40,2022
-Denmark , Tunisia,Match 6,2022
-France , Australia,Match 5,2022
-Tunisia , Australia,Match 21,2022
-France , Denmark,Match 23,2022
-Australia , Denmark,Match 37,2022
-Tunisia , France,Match 38,2022
-Germany , Japan,Match 11,2022
-Spain , Costa Rica,Match 10,2022
-Japan , Costa Rica,Match 25,2022
-Spain , Germany,Match 28,2022
-Japan , Spain,Match 43,2022
-Costa Rica , Germany,Match 44,2022
-Morocco , Croatia,Match 12,2022
-Belgium , Canada,Match 9,2022
-Belgium , Morocco,Match 26,2022
-Croatia , Canada,Match 27,2022
-Croatia , Belgium,Match 41,2022
-Canada , Morocco,Match 42,2022
-Switzerland , Cameroon,Match 13,2022
-Brazil , Serbia,Match 16,2022
-Cameroon , Serbia,Match 29,2022
-Brazil , Switzerland,Match 31,2022
-Serbia , Switzerland,Match 47,2022
-Cameroon , Brazil,Match 48,2022
-Uruguay , South Korea,Match 14,2022
-Portugal , Ghana,Match 15,2022
-South Korea , Ghana,Match 30,2022
-Portugal , Uruguay,Match 32,2022
-Ghana , Uruguay,Match 45,2022
-South Korea , Portugal,Match 46,2022
-Winners Group A,Runners-up Group B,Match 49,2022
-Winners Group C,Runners-up Group D,Match 50,2022
-Winners Group D,Runners-up Group C,Match 52,2022
-Winners Group B,Runners-up Group A,Match 51,2022
-Winners Group E,Runners-up Group F,Match 53,2022
-Winners Group G,Runners-up Group H,Match 54,2022
-Winners Group F,Runners-up Group E,Match 55,2022
-Winners Group H,Runners-up Group G,Match 56,2022
-Winners Match 53,Winners Match 54,Match 58,2022
-Winners Match 49,Winners Match 50,Match 57,2022
-Winners Match 55,Winners Match 56,Match 60,2022
-Winners Match 51,Winners Match 52,Match 59,2022
-Winners Match 57,Winners Match 58,Match 61,2022
-Winners Match 59,Winners Match 60,Match 62,2022
-Losers Match 61,Losers Match 62,Match 63,2022
-Winners Match 61,Winners Match 62,Match 64,2022
+Catar,Ecuador,Partido 1,2022
+Senegal,Países Bajos,Partido 2,2022
+Catar,Senegal,Partido 18,2022
+Países Bajos,Ecuador,Partido 19,2022
+Ecuador,Senegal,Partido 35,2022
+Países Bajos,Catar,Partido 36,2022
+Inglaterra,Irán,Partido 3,2022
+Estados Unidos,Gales,Partido 4,2022
+Gales,Irán,Partido 17,2022
+Inglaterra,Estados Unidos,Partido 20,2022
+Gales,Inglaterra,Partido 33,2022
+Irán,Estados Unidos,Partido 34,2022
+Argentina,Arabia Saudita,Partido 8,2022
+México,Polonia,Partido 7,2022
+Polonia,Arabia Saudita,Partido 22,2022
+Argentina,México,Partido 24,2022
+Polonia,Argentina,Partido 39,2022
+Arabia Saudita,México,Partido 40,2022
+Dinamarca,Túnez,Partido 6,2022
+Francia,Australia,Partido 5,2022
+Túnez,Australia,Partido 21,2022
+Francia,Dinamarca,Partido 23,2022
+Australia,Dinamarca,Partido 37,2022
+Túnez,Francia,Partido 38,2022
+Alemania,Japón,Partido 11,2022
+España,Costa Rica,Partido 10,2022
+Japón,Costa Rica,Partido 25,2022
+España,Alemania,Partido 28,2022
+Japón,España,Partido 43,2022
+Costa Rica,Alemania,Partido 44,2022
+Marruecos,Croacia,Partido 12,2022
+Bélgica,Canadá,Partido 9,2022
+Bélgica,Marruecos,Partido 26,2022
+Croacia,Canadá,Partido 27,2022
+Croacia,Bélgica,Partido 41,2022
+Canadá,Marruecos,Partido 42,2022
+Suiza,Camerún,Partido 13,2022
+Brasil,Serbia,Partido 16,2022
+Camerún,Serbia,Partido 29,2022
+Brasil,Suiza,Partido 31,2022
+Serbia,Suiza,Partido 47,2022
+Camerún,Brasil,Partido 48,2022
+Uruguay,Corea del Sur,Partido 14,2022
+Portugal,Ghana,Partido 15,2022
+Corea del Sur,Ghana,Partido 30,2022
+Portugal,Uruguay,Partido 32,2022
+Ghana,Uruguay,Partido 45,2022
+Corea del Sur,Portugal,Partido 46,2022
+1.° Grupo A,2.° Grupo B,Partido 49,2022
+1.° Grupo C,2.° Grupo D,Partido 50,2022
+1.° Grupo D,2.° Grupo C,Partido 52,2022
+1.° Grupo B,2.° Grupo A,Partido 51,2022
+1.° Grupo E,2.° Grupo F,Partido 53,2022
+1.° Grupo G,2.° Grupo H,Partido 54,2022
+1.° Grupo F,2.° Grupo E,Partido 55,2022
+1.° Grupo H,2.° Grupo G,Partido 56,2022
+Ganador partido 53,Ganador partido 54,Partido 58,2022
+Ganador partido 49,Ganador partido 50,Partido 57,2022
+Ganador partido 55,Ganador partido 56,Partido 60,2022
+Ganador partido 51,Ganador partido 52,Partido 59,2022
+Ganador partido 57,Ganador partido 58,Partido 61,2022
+Ganador partido 59,Ganador partido 60,Partido 62,2022
+Perdedor partido 61,Perdedor partido 62,Partido 63,2022
+Ganador partido 61,Ganador partido 62,Partido 64,2022
